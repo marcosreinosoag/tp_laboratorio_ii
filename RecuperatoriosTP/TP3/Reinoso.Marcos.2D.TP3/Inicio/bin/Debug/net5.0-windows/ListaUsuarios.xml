@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <IdDni>40305323</IdDni>
+    <Clave>12341234</Clave>
+    <Nombre>Roberto</Nombre>
+    <Apellido>Suarez</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1998-03-23T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>405454555</IdDni>
+    <Clave>5454541</Clave>
+    <Nombre>Fred</Nombre>
+    <Apellido>Suarez</Apellido>
+    <Cargo>Administrador</Cargo>
+    <FechaNac>1998-03-23T00:00:00</FechaNac>
+    <Pedidos>
+      <Instrumento xsi:type="Bateria">
+        <Id>8</Id>
+        <Descripcion>Bateria Acústica Rydeen 5 Cuerpos Bombo 20 Yamaha Rdp0f5fb</Descripcion>
+        <Cantidad>13</Cantidad>
+        <Precio>146000</Precio>
+        <EsElectronica>true</EsElectronica>
+        <CantidadPlatillos>2</CantidadPlatillos>
+        <DoblePedal>false</DoblePedal>
+      </Instrumento>
+      <Instrumento xsi:type="Bateria">
+        <Id>8</Id>
+        <Descripcion>Bateria Acústica Rydeen 5 Cuerpos Bombo 20 Yamaha Rdp0f5fb</Descripcion>
+        <Cantidad>13</Cantidad>
+        <Precio>146000</Precio>
+        <EsElectronica>true</EsElectronica>
+        <CantidadPlatillos>2</CantidadPlatillos>
+        <DoblePedal>false</DoblePedal>
+      </Instrumento>
+    </Pedidos>
+  </Usuario>
+  <Usuario>
+    <IdDni>40304546</IdDni>
+    <Clave>456qwe</Clave>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Reinoso</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1996-06-23T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>40305321</IdDni>
+    <Clave>123</Clave>
+    <Nombre>Juan</Nombre>
+    <Apellido>Perez</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1999-06-20T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>23006549</IdDni>
+    <Clave>132qwe</Clave>
+    <Nombre>Juan</Nombre>
+    <Apellido>Sanchez</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1989-07-21T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>16879465</IdDni>
+    <Clave>258258</Clave>
+    <Nombre>Fabian</Nombre>
+    <Apellido>Rodriguez</Apellido>
+    <Cargo>Administrador</Cargo>
+    <FechaNac>1969-07-17T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>26896324</IdDni>
+    <Clave>666</Clave>
+    <Nombre>Hugo</Nombre>
+    <Apellido>Ledesma</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1994-11-22T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>15555555</IdDni>
+    <Clave>9999999</Clave>
+    <Nombre>Gerardo</Nombre>
+    <Apellido>Felice</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1962-06-23T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>41285555</IdDni>
+    <Clave>9516232</Clave>
+    <Nombre>Ariana</Nombre>
+    <Apellido>Fernandez</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1999-06-23T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>42058888</IdDni>
+    <Clave>5555555</Clave>
+    <Nombre>Camila</Nombre>
+    <Apellido>Gomez</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>1998-06-23T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+  <Usuario>
+    <IdDni>42995656</IdDni>
+    <Clave>99999</Clave>
+    <Nombre>Magali</Nombre>
+    <Apellido>Estrada</Apellido>
+    <Cargo>Cliente</Cargo>
+    <FechaNac>2002-06-23T00:00:00</FechaNac>
+    <Pedidos />
+  </Usuario>
+</ArrayOfUsuario>

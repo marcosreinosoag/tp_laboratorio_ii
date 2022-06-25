@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfInstrumento xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Instrumento xsi:type="Guitarra">
+    <Id>1</Id>
+    <Descripcion>Guitarra eléctrica Fender Standard Stratocaster de aliso black con diapasón de arce </Descripcion>
+    <Cantidad>10</Cantidad>
+    <Precio>245000</Precio>
+    <CantidadDeMicrofonos>3</CantidadDeMicrofonos>
+    <TieneTremolo>true</TieneTremolo>
+    <Tipo>Electrica</Tipo>
+    <Color>Negro</Color>
+  </Instrumento>
+  <Instrumento xsi:type="Guitarra">
+    <Id>2</Id>
+    <Descripcion>Guitarra eléctrica Epiphone Inspired by Gibson Les Paul Custom de caoba ebony brillante con diapasón de ébano</Descripcion>
+    <Cantidad>9</Cantidad>
+    <Precio>210000</Precio>
+    <CantidadDeMicrofonos>3</CantidadDeMicrofonos>
+    <TieneTremolo>false</TieneTremolo>
+    <Tipo>Electrica</Tipo>
+    <Color>Negro</Color>
+  </Instrumento>
+  <Instrumento xsi:type="Guitarra">
+    <Id>3</Id>
+    <Descripcion>Guitarra Gibson Memphis Es-339 Studio Wine Red</Descripcion>
+    <Cantidad>10</Cantidad>
+    <Precio>628000</Precio>
+    <CantidadDeMicrofonos>3</CantidadDeMicrofonos>
+    <TieneTremolo>false</TieneTremolo>
+    <Tipo>Electrica</Tipo>
+    <Color>Blanco</Color>
+  </Instrumento>
+  <Instrumento xsi:type="Guitarra">
+    <Id>4</Id>
+    <Descripcion>Guitarra eléctrica LTD EC Series EC-256 de caoba 2018 black con diapasón de jatoba asado</Descripcion>
+    <Cantidad>9</Cantidad>
+    <Precio>210000</Precio>
+    <CantidadDeMicrofonos>3</CantidadDeMicrofonos>
+    <TieneTremolo>false</TieneTremolo>
+    <Tipo>Electrica</Tipo>
+    <Color>Negro</Color>
+  </Instrumento>
+  <Instrumento xsi:type="Guitarra">
+    <Id>5</Id>
+    <Descripcion>Guitarra Martin Omc-15me Funda Electroacústica The Working M </Descripcion>
+    <Cantidad>10</Cantidad>
+    <Precio>434000</Precio>
+    <CantidadDeMicrofonos>3</CantidadDeMicrofonos>
+    <TieneTremolo>false</TieneTremolo>
+    <Tipo>Acustica</Tipo>
+    <Color>Madera</Color>
+  </Instrumento>
+  <Instrumento xsi:type="Guitarra">
+    <Id>6</Id>
+    <Descripcion>Guitarra Criolla Clasica Gracia M6</Descripcion>
+    <Cantidad>9</Cantidad>
+    <Precio>22000</Precio>
+    <CantidadDeMicrofonos>3</CantidadDeMicrofonos>
+    <TieneTremolo>false</TieneTremolo>
+    <Tipo>Criolla</Tipo>
+    <Color>Madera</Color>
+  </Instrumento>
+  <Instrumento xsi:type="Bateria">
+    <Id>7</Id>
+    <Descripcion>Bateria Eléctrica Artesia Parches Mesh Doble Zona A50</Descripcion>
+    <Cantidad>10</Cantidad>
+    <Precio>220000</Precio>
+    <EsElectronica>true</EsElectronica>
+    <CantidadPlatillos>2</CantidadPlatillos>
+    <DoblePedal>false</DoblePedal>
+  </Instrumento>
+  <Instrumento xsi:type="Bateria">
+    <Id>8</Id>
+    <Descripcion>Bateria Acústica Rydeen 5 Cuerpos Bombo 20 Yamaha Rdp0f5fb</Descripcion>
+    <Cantidad>13</Cantidad>
+    <Precio>146000</Precio>
+    <EsElectronica>true</EsElectronica>
+    <CantidadPlatillos>2</CantidadPlatillos>
+    <DoblePedal>false</DoblePedal>
+  </Instrumento>
+  <Instrumento xsi:type="Bateria">
+    <Id>10</Id>
+    <Descripcion>Bateria Tama Rhythm Mate Cosmic Indigo Pop Music Floresta!!!</Descripcion>
+    <Cantidad>10</Cantidad>
+    <Precio>195000</Precio>
+    <EsElectronica>true</EsElectronica>
+    <CantidadPlatillos>2</CantidadPlatillos>
+    <DoblePedal>false</DoblePedal>
+  </Instrumento>
+  <Instrumento xsi:type="Bateria">
+    <Id>9</Id>
+    <Descripcion>Bateria Pearl Export 5 Cuerpos Bombo 22 Fp21</Descripcion>
+    <Cantidad>10</Cantidad>
+    <Precio>180000</Precio>
+    <EsElectronica>true</EsElectronica>
+    <CantidadPlatillos>2</CantidadPlatillos>
+    <DoblePedal>true</DoblePedal>
+  </Instrumento>
+</ArrayOfInstrumento>
